@@ -1,0 +1,41 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1, h2 {
+    color: darkblue;
+}
+ul {
+    color: green;
+}
+th, td {
+    text-align: left;
+}
+.prices-table {
+    color: darkblue;
+}
+.prices-table__row-blue {
+    background-color: deepskyblue;
+}
+.plans-table__headers {
+    background-color: lightcoral;
+}
+.facades-table_headers {
+    background-color: lightcoral;
+}
+.facades-table_headers th {
+    width: 300px;
+}
+table img {
+    margin-top: 25px;
+}
+.navigation {
+    list-style-type: none;
+}
+.navigation a {
+    color: green;
+    text-decoration: none;
+}
+.navigation a:hover {
+    color: orangered;
+    text-decoration: underline;
+}

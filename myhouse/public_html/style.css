@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    color: #0000ff;
+    font-family: Verdana;
+    font-size: 20pt;
+}
+h2 {
+    text-align: right;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 20pt;
+}
+p {
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-style: 12pt;
+    font-weight: bold;
+}
+body {
+    background-image: url(fon9.jpg);
+}
+h3 {
+    font-family: Tahoma;
+    color: green;
+    text-decoration: underline;
+}
+ol {
+    list-style-type: upper-roman;
+}
+ul {
+    list-style-image: url(spisok_1.gif);
+}
+h1.main, h1.golub, h1.krasn, h1.zelen, h1.oranzhev {
+    color: navy;
+    font-family: Verdana;
+    text-align: left;
+    font-style: 14pt;
+}
+h1.main {
+    color: navy;
+}
+h1.golub {
+    color: blue;
+}
+h1.krasn {
+    color: red;
+}
+h1.zelen {
+    color: green;
+}
+h1.oranzhev {
+    color: orange;
+}
+p.main_p {
+    color: navy;
+    text-align: center;
+}
+p.blue_p {
+    color: blue;
+    text-align: left;
+    font-family: Tahoma;
+}
+p.red_p {
+    color: red;
+    text-align: right;
+}
+p.green_p {
+    color: green;
+    text-align: justify;
+    font-family: Verdana;
+}
+p.orange_p {
+    color: orange;
+    text-align: center;
+}
